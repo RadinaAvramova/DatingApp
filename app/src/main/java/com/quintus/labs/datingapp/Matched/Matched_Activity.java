@@ -20,13 +20,6 @@ import com.quintus.labs.datingapp.Utils.User;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * DatingApp
- * https://github.com/quintuslabs/DatingApp
- * Created on 25-sept-2018.
- * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
- */
-
 public class Matched_Activity extends AppCompatActivity {
 
     private static final String TAG = "Matched_Activity";
